@@ -15,7 +15,7 @@ Soy de un pueblo de 50.000 habitantes pero actualmente debido a mi interes en el
   10 años estudiando para un instituto privado.
 
 
-## 💻 Tech Interests
+## 💻 ¿Por qué?
 Soy un apasionado del mundo IT, siendo de Argentina creo que mi país esta en constante crecimiento en este mundo y quiero ser parte de ello, aportanto mis habilidades y por su puesto, incluyendo nuevas.
 
 

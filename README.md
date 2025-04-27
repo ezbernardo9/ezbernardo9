@@ -6,7 +6,7 @@
 
 
 ## 🌍 Sobre Mi
-Soy de un pueblo de 50.000 habitantes pero actualmente debido a mi interes en el desarrollo de software, me encuentro viviendo en la Ciudad Autonoma de Buenos Aires. Soy estudiante de la Licenciatura en Informática en la Universidad Argentina de la Empresa
+Soy de un pueblo de 50.000 habitantes, pero actualmente debido a mi interés en el desarrollo de software, me encuentro viviendo en la Ciudad Autónoma de Buenos Aires. Soy estudiante de la Licenciatura en Informática en la Universidad Argentina de la Empresa
 
 ## 🎓 Educación
 - **Universidad Argentina de la Empresa**  

@@ -1,16 +1,21 @@
-## Hi there 👋
+<div align="center">
 
-<!--
-**ezbernardo9/ezbernardo9** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Jersey+15&size=30&pause=1000&color=42C3B4&background=9D56FF00&center=true&vCenter=true&repeat=false&random=false&width=435&lines=Hello!+Welcome+to+my+GitHub+page.)](https://git.io/typing-svg)  
 
-Here are some ideas to get you started:
+<div align="left">
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+## 🌍 Sobre Mi
+Soy de un pueblo de 50.000 habitantes pero actualmente debido a mi interes en el desarrollo de software, me encuentro viviendo en la Ciudad Autonoma de Buenos Aires. Soy estudiante de la Licenciatura en Informática en la Universidad Argentina de la Empresa
+
+## 🎓 Educación
+- **Universidad Argentina de la Empresa**  
+  Incios de 2023 y actualmente cursando!
+- **Idioma: Inglés (avanzado) y Español (nativo)**  
+  10 años estudiando para un instituto privado.
+
+
+## 💻 Tech Interests
+Soy un apasionado del mundo IT, siendo de Argentina creo que mi país esta en constante crecimiento en este mundo y quiero ser parte de ello, aportanto mis habilidades y por su puesto, incluyendo nuevas.
+
+
